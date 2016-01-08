@@ -1,5 +1,15 @@
-#snippet-layersList-
-{
-  display: inline-block;
-   width: 100%;
+.containerd {
+  background-color: rgba(21, 51, 26, 1);
+}
+
+.navbar{
+  margin-left: 70px;
+  padding-top: 30px;
+  color: white;
+
+}
+
+.nav-pills {
+  font-size: 20px;
+
 }
