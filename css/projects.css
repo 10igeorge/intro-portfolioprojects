@@ -14,5 +14,19 @@
   width: 800px;
 }
 
+footer.container {
+  background-color: rgba(21, 51, 26, 1);
+  width: 100%;
+  margin-top: 300px;
+  position: absolute;
+  height: 75px;
+}
+
+p.footnote {
+  text-align: center;
+  color: white;
+  margin-top: 20px;
+}
+
 .nav-pills {
   font-size: 20px;
