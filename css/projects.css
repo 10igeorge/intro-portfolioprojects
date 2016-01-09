@@ -10,8 +10,17 @@
 
 }
 
+.nav-pills {
+  font-size: 20px;
+}
+
 .columns {
   width: 800px;
+}
+
+.columns a {
+  font-size: 20px;
+  text-decoration: underline;
 }
 
 footer.container {
@@ -27,6 +36,3 @@ p.footnote {
   color: white;
   margin-top: 20px;
 }
-
-.nav-pills {
-  font-size: 20px;
