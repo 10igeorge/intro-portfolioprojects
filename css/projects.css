@@ -27,7 +27,8 @@ footer.container {
   background-color: rgba(21, 51, 26, 1);
   width: 100%;
   margin-top: 300px;
-  position: absolute;
+  position: fixed;
+  bottom: 0px;
   height: 75px;
 }
 
